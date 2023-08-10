@@ -6,3 +6,5 @@ which I plan to add them before the end of the World Cup!
 
 V1.0: You just have to install "requirements.txt" file libraries and Run the programm.
 Programm will make a ".db" file and store players' name, country and rating in a table named "Participants"
+
+V1.1: No chenge in performance
