@@ -13,3 +13,5 @@ Programm will make a ".db" file and store players' name, country and rating in a
 V1.1: No chenge in performance.
 
 V2.0: Add handler for some possible errors.
+
+V2.1 (Last version): More userfriendship :)
